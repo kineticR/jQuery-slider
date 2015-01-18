@@ -1,0 +1,38 @@
+body {
+	font-family: arial, sans-serif;
+}
+
+#memo {
+	text-align: center;
+	display: block;
+	margin-top: 100px;
+	color: #555478;
+}
+
+#slider {
+	width: 600px;
+	height: 300px;
+	overflow: hidden;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+#slider .slides {
+	display: block;
+	width: 3600;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+#slider .slide {
+	float: left;
+	list-style-type: none;
+	width: 600px;
+	height: 300px;
+}
