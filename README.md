@@ -1,3 +1,3 @@
-Super simple jQuery slider. Live preview<br>
+Super simple jQuery slider<br>
 
 :)
